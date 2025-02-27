@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u0645\u0647\u0645\\EshopeProject\\Eshope\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B788E49F-4EAC-4B25-BCE1-A044FB0EC277}|Src\\Services\\IDpService\\IDP.Api\\IDP.Api.csproj|d:\\\u0645\u0647\u0645\\eshopeproject\\eshope\\src\\services\\idpservice\\idp.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B788E49F-4EAC-4B25-BCE1-A044FB0EC277}|Src\\Services\\IDpService\\IDP.Api\\IDP.Api.csproj|solutionrelative:src\\services\\idpservice\\idp.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B788E49F-4EAC-4B25-BCE1-A044FB0EC277}|Src\\Services\\IDpService\\IDP.Api\\IDP.Api.csproj|d:\\\u0645\u0647\u0645\\eshopeproject\\eshope\\src\\services\\idpservice\\idp.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B788E49F-4EAC-4B25-BCE1-A044FB0EC277}|Src\\Services\\IDpService\\IDP.Api\\IDP.Api.csproj|solutionrelative:src\\services\\idpservice\\idp.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B788E49F-4EAC-4B25-BCE1-A044FB0EC277}|Src\\Services\\IDpService\\IDP.Api\\IDP.Api.csproj|d:\\\u0645\u0647\u0645\\eshopeproject\\eshope\\src\\services\\idpservice\\idp.api\\controllers\\v1\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B788E49F-4EAC-4B25-BCE1-A044FB0EC277}|Src\\Services\\IDpService\\IDP.Api\\IDP.Api.csproj|solutionrelative:src\\services\\idpservice\\idp.api\\controllers\\v1\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B788E49F-4EAC-4B25-BCE1-A044FB0EC277}|Src\\Services\\IDpService\\IDP.Api\\IDP.Api.csproj|d:\\\u0645\u0647\u0645\\eshopeproject\\eshope\\src\\services\\idpservice\\idp.api\\controllers\\basecontroller\\ibasecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B788E49F-4EAC-4B25-BCE1-A044FB0EC277}|Src\\Services\\IDpService\\IDP.Api\\IDP.Api.csproj|solutionrelative:src\\services\\idpservice\\idp.api\\controllers\\basecontroller\\ibasecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F96FF60-BD6D-4801-905D-D127FCF3EFD5}|Src\\Services\\IDpService\\IDp.UnitTest\\IDp.UnitTest.csproj|d:\\\u0645\u0647\u0645\\eshopeproject\\eshope\\src\\services\\idpservice\\idp.unittest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F96FF60-BD6D-4801-905D-D127FCF3EFD5}|Src\\Services\\IDpService\\IDp.UnitTest\\IDp.UnitTest.csproj|solutionrelative:src\\services\\idpservice\\idp.unittest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{555E59A3-EB11-400F-9359-A597753460FA}|Src\\Services\\IDpService\\IDP.Ioc\\IDP.Ioc.csproj|d:\\\u0645\u0647\u0645\\eshopeproject\\eshope\\src\\services\\idpservice\\idp.ioc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{555E59A3-EB11-400F-9359-A597753460FA}|Src\\Services\\IDpService\\IDP.Ioc\\IDP.Ioc.csproj|solutionrelative:src\\services\\idpservice\\idp.ioc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C94027F5-DB5B-433D-813D-1F7DA5B13AF2}|Src\\Services\\IDpService\\IDP.Infra\\IDP.Infra.csproj|d:\\\u0645\u0647\u0645\\eshopeproject\\eshope\\src\\services\\idpservice\\idp.infra\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C94027F5-DB5B-433D-813D-1F7DA5B13AF2}|Src\\Services\\IDpService\\IDP.Infra\\IDP.Infra.csproj|solutionrelative:src\\services\\idpservice\\idp.infra\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BE9EFE3-17F3-4013-B95A-2EC6A46AB346}|Src\\Services\\IDpService\\IDp.Application\\IDp.Application.csproj|d:\\\u0645\u0647\u0645\\eshopeproject\\eshope\\src\\services\\idpservice\\idp.application\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BE9EFE3-17F3-4013-B95A-2EC6A46AB346}|Src\\Services\\IDpService\\IDp.Application\\IDp.Application.csproj|solutionrelative:src\\services\\idpservice\\idp.application\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B788E49F-4EAC-4B25-BCE1-A044FB0EC277}|Src\\Services\\IDpService\\IDP.Api\\IDP.Api.csproj|d:\\\u0645\u0647\u0645\\eshopeproject\\eshope\\src\\services\\idpservice\\idp.api\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B788E49F-4EAC-4B25-BCE1-A044FB0EC277}|Src\\Services\\IDpService\\IDP.Api\\IDP.Api.csproj|solutionrelative:src\\services\\idpservice\\idp.api\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B788E49F-4EAC-4B25-BCE1-A044FB0EC277}|Src\\Services\\IDpService\\IDP.Api\\IDP.Api.csproj|d:\\\u0645\u0647\u0645\\eshopeproject\\eshope\\src\\services\\idpservice\\idp.api\\idp.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{B788E49F-4EAC-4B25-BCE1-A044FB0EC277}|Src\\Services\\IDpService\\IDP.Api\\IDP.Api.csproj|solutionrelative:src\\services\\idpservice\\idp.api\\idp.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B788E49F-4EAC-4B25-BCE1-A044FB0EC277}|Src\\Services\\IDpService\\IDP.Api\\IDP.Api.csproj|d:\\\u0645\u0647\u0645\\eshopeproject\\eshope\\src\\services\\idpservice\\idp.api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B788E49F-4EAC-4B25-BCE1-A044FB0EC277}|Src\\Services\\IDpService\\IDP.Api\\IDP.Api.csproj|solutionrelative:src\\services\\idpservice\\idp.api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 380,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\\u0645\u0647\u0645\\EshopeProject\\Eshope\\Src\\Services\\IDpService\\IDP.Api\\Controllers\\V1\\UserController.cs",
+              "RelativeDocumentMoniker": "Src\\Services\\IDpService\\IDP.Api\\Controllers\\V1\\UserController.cs",
+              "ToolTip": "D:\\\u0645\u0647\u0645\\EshopeProject\\Eshope\\Src\\Services\\IDpService\\IDP.Api\\Controllers\\V1\\UserController.cs",
+              "RelativeToolTip": "Src\\Services\\IDpService\\IDP.Api\\Controllers\\V1\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T09:54:38.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IBaseController.cs",
+              "DocumentMoniker": "D:\\\u0645\u0647\u0645\\EshopeProject\\Eshope\\Src\\Services\\IDpService\\IDP.Api\\Controllers\\BaseController\\IBaseController.cs",
+              "RelativeDocumentMoniker": "Src\\Services\\IDpService\\IDP.Api\\Controllers\\BaseController\\IBaseController.cs",
+              "ToolTip": "D:\\\u0645\u0647\u0645\\EshopeProject\\Eshope\\Src\\Services\\IDpService\\IDP.Api\\Controllers\\BaseController\\IBaseController.cs",
+              "RelativeToolTip": "Src\\Services\\IDpService\\IDP.Api\\Controllers\\BaseController\\IBaseController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T09:52:58.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u0645\u0647\u0645\\EshopeProject\\Eshope\\Src\\Services\\IDpService\\IDp.UnitTest\\Program.cs",
+              "RelativeDocumentMoniker": "Src\\Services\\IDpService\\IDp.UnitTest\\Program.cs",
+              "ToolTip": "D:\\\u0645\u0647\u0645\\EshopeProject\\Eshope\\Src\\Services\\IDpService\\IDp.UnitTest\\Program.cs",
+              "RelativeToolTip": "Src\\Services\\IDpService\\IDp.UnitTest\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T09:48:38.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u0645\u0647\u0645\\EshopeProject\\Eshope\\Src\\Services\\IDpService\\IDP.Ioc\\Program.cs",
+              "RelativeDocumentMoniker": "Src\\Services\\IDpService\\IDP.Ioc\\Program.cs",
+              "ToolTip": "D:\\\u0645\u0647\u0645\\EshopeProject\\Eshope\\Src\\Services\\IDpService\\IDP.Ioc\\Program.cs",
+              "RelativeToolTip": "Src\\Services\\IDpService\\IDP.Ioc\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T09:47:52.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u0645\u0647\u0645\\EshopeProject\\Eshope\\Src\\Services\\IDpService\\IDP.Infra\\Program.cs",
+              "RelativeDocumentMoniker": "Src\\Services\\IDpService\\IDP.Infra\\Program.cs",
+              "ToolTip": "D:\\\u0645\u0647\u0645\\EshopeProject\\Eshope\\Src\\Services\\IDpService\\IDP.Infra\\Program.cs",
+              "RelativeToolTip": "Src\\Services\\IDpService\\IDP.Infra\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T09:47:08.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u0645\u0647\u0645\\EshopeProject\\Eshope\\Src\\Services\\IDpService\\IDp.Application\\Program.cs",
+              "RelativeDocumentMoniker": "Src\\Services\\IDpService\\IDp.Application\\Program.cs",
+              "ToolTip": "D:\\\u0645\u0647\u0645\\EshopeProject\\Eshope\\Src\\Services\\IDpService\\IDp.Application\\Program.cs",
+              "RelativeToolTip": "Src\\Services\\IDpService\\IDp.Application\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T09:45:23.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "D:\\\u0645\u0647\u0645\\EshopeProject\\Eshope\\Src\\Services\\IDpService\\IDP.Api\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "Src\\Services\\IDpService\\IDP.Api\\WeatherForecast.cs",
+              "ToolTip": "D:\\\u0645\u0647\u0645\\EshopeProject\\Eshope\\Src\\Services\\IDpService\\IDP.Api\\WeatherForecast.cs",
+              "RelativeToolTip": "Src\\Services\\IDpService\\IDP.Api\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T09:40:38.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u0645\u0647\u0645\\EshopeProject\\Eshope\\Src\\Services\\IDpService\\IDP.Api\\Program.cs",
+              "RelativeDocumentMoniker": "Src\\Services\\IDpService\\IDP.Api\\Program.cs",
+              "ToolTip": "D:\\\u0645\u0647\u0645\\EshopeProject\\Eshope\\Src\\Services\\IDpService\\IDP.Api\\Program.cs",
+              "RelativeToolTip": "Src\\Services\\IDpService\\IDP.Api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T09:40:33.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IDP.Api.http",
+              "DocumentMoniker": "D:\\\u0645\u0647\u0645\\EshopeProject\\Eshope\\Src\\Services\\IDpService\\IDP.Api\\IDP.Api.http",
+              "RelativeDocumentMoniker": "Src\\Services\\IDpService\\IDP.Api\\IDP.Api.http",
+              "ToolTip": "D:\\\u0645\u0647\u0645\\EshopeProject\\Eshope\\Src\\Services\\IDpService\\IDP.Api\\IDP.Api.http",
+              "RelativeToolTip": "Src\\Services\\IDpService\\IDP.Api\\IDP.Api.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-02-27T09:40:26.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\\u0645\u0647\u0645\\EshopeProject\\Eshope\\Src\\Services\\IDpService\\IDP.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "Src\\Services\\IDpService\\IDP.Api\\appsettings.json",
+              "ToolTip": "D:\\\u0645\u0647\u0645\\EshopeProject\\Eshope\\Src\\Services\\IDpService\\IDP.Api\\appsettings.json",
+              "RelativeToolTip": "Src\\Services\\IDpService\\IDP.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-27T09:40:21.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\\u0645\u0647\u0645\\EshopeProject\\Eshope\\Src\\Services\\IDpService\\IDP.Api\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Src\\Services\\IDpService\\IDP.Api\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\\u0645\u0647\u0645\\EshopeProject\\Eshope\\Src\\Services\\IDpService\\IDP.Api\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Src\\Services\\IDpService\\IDP.Api\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T09:40:10.601Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
