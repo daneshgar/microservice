@@ -1,0 +1,12 @@
+D:\projects\EshopeProject\Eshope\Common\Auth\bin\Debug\net8.0\Auth.deps.json
+D:\projects\EshopeProject\Eshope\Common\Auth\bin\Debug\net8.0\Auth.dll
+D:\projects\EshopeProject\Eshope\Common\Auth\bin\Debug\net8.0\Auth.pdb
+D:\projects\EshopeProject\Eshope\Common\Auth\obj\Debug\net8.0\Auth.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\EshopeProject\Eshope\Common\Auth\obj\Debug\net8.0\Auth.AssemblyInfoInputs.cache
+D:\projects\EshopeProject\Eshope\Common\Auth\obj\Debug\net8.0\Auth.AssemblyInfo.cs
+D:\projects\EshopeProject\Eshope\Common\Auth\obj\Debug\net8.0\Auth.csproj.CoreCompileInputs.cache
+D:\projects\EshopeProject\Eshope\Common\Auth\obj\Debug\net8.0\Auth.sourcelink.json
+D:\projects\EshopeProject\Eshope\Common\Auth\obj\Debug\net8.0\Auth.dll
+D:\projects\EshopeProject\Eshope\Common\Auth\obj\Debug\net8.0\refint\Auth.dll
+D:\projects\EshopeProject\Eshope\Common\Auth\obj\Debug\net8.0\Auth.pdb
+D:\projects\EshopeProject\Eshope\Common\Auth\obj\Debug\net8.0\ref\Auth.dll

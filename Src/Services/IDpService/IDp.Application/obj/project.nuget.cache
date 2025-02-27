@@ -1,8 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "webs498Bo0M=",
+  "dgSpecHash": "V4fiHGj3b40=",
   "success": true,
-  "projectFilePath": "D:\\مهم\\EshopeProject\\Eshope\\Src\\Services\\IDpService\\IDp.Application\\IDp.Application.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\projects\\EshopeProject\\Eshope\\Src\\Services\\IDpService\\IDp.Application\\IDp.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\shabani\\.nuget\\packages\\automapper\\14.0.0\\automapper.14.0.0.nupkg.sha512",
+    "C:\\Users\\shabani\\.nuget\\packages\\mediatr\\11.0.0\\mediatr.11.0.0.nupkg.sha512",
+    "C:\\Users\\shabani\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
+    "C:\\Users\\shabani\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\11.1.0\\mediatr.extensions.microsoft.dependencyinjection.11.1.0.nupkg.sha512",
+    "C:\\Users\\shabani\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\shabani\\.nuget\\packages\\microsoft.extensions.options\\8.0.0\\microsoft.extensions.options.8.0.0.nupkg.sha512",
+    "C:\\Users\\shabani\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

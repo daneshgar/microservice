@@ -1,17 +1,196 @@
 {
   "format": 1,
   "restore": {
-    "D:\\مهم\\EshopeProject\\Eshope\\Src\\Services\\IDpService\\IDP.Api\\IDP.Api.csproj": {}
+    "D:\\projects\\EshopeProject\\Eshope\\Src\\Services\\IDpService\\IDP.Api\\IDP.Api.csproj": {}
   },
   "projects": {
-    "D:\\مهم\\EshopeProject\\Eshope\\Src\\Services\\IDpService\\IDP.Api\\IDP.Api.csproj": {
+    "D:\\projects\\EshopeProject\\Eshope\\Src\\Services\\IDpService\\IDP.Api\\IDP.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\مهم\\EshopeProject\\Eshope\\Src\\Services\\IDpService\\IDP.Api\\IDP.Api.csproj",
+        "projectUniqueName": "D:\\projects\\EshopeProject\\Eshope\\Src\\Services\\IDpService\\IDP.Api\\IDP.Api.csproj",
         "projectName": "IDP.Api",
-        "projectPath": "D:\\مهم\\EshopeProject\\Eshope\\Src\\Services\\IDpService\\IDP.Api\\IDP.Api.csproj",
+        "projectPath": "D:\\projects\\EshopeProject\\Eshope\\Src\\Services\\IDpService\\IDP.Api\\IDP.Api.csproj",
         "packagesPath": "C:\\Users\\shabani\\.nuget\\packages\\",
-        "outputPath": "D:\\مهم\\EshopeProject\\Eshope\\Src\\Services\\IDpService\\IDP.Api\\obj\\",
+        "outputPath": "D:\\projects\\EshopeProject\\Eshope\\Src\\Services\\IDpService\\IDP.Api\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\shabani\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://nuget.pouyaandishan.local/nuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\projects\\EshopeProject\\Eshope\\Src\\Services\\IDpService\\IDp.Application\\IDp.Application.csproj": {
+                "projectPath": "D:\\projects\\EshopeProject\\Eshope\\Src\\Services\\IDpService\\IDp.Application\\IDp.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Asp.Versioning.Abstractions": {
+              "target": "Package",
+              "version": "[8.1.0, )"
+            },
+            "Asp.Versioning.Http": {
+              "target": "Package",
+              "version": "[8.1.0, )"
+            },
+            "Asp.Versioning.Mvc": {
+              "target": "Package",
+              "version": "[8.1.0, )"
+            },
+            "Asp.Versioning.Mvc.ApiExplorer": {
+              "target": "Package",
+              "version": "[8.1.0, )"
+            },
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[11.1.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.6.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\projects\\EshopeProject\\Eshope\\Src\\Services\\IDpService\\IDp.Application\\IDp.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\projects\\EshopeProject\\Eshope\\Src\\Services\\IDpService\\IDp.Application\\IDp.Application.csproj",
+        "projectName": "IDp.Application",
+        "projectPath": "D:\\projects\\EshopeProject\\Eshope\\Src\\Services\\IDpService\\IDp.Application\\IDp.Application.csproj",
+        "packagesPath": "C:\\Users\\shabani\\.nuget\\packages\\",
+        "outputPath": "D:\\projects\\EshopeProject\\Eshope\\Src\\Services\\IDpService\\IDp.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\shabani\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://nuget.pouyaandishan.local/nuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\projects\\EshopeProject\\Eshope\\Src\\Services\\IDpService\\IDP.Infra\\IDP.Infra.csproj": {
+                "projectPath": "D:\\projects\\EshopeProject\\Eshope\\Src\\Services\\IDpService\\IDP.Infra\\IDP.Infra.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[14.0.0, )"
+            },
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[11.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\projects\\EshopeProject\\Eshope\\Src\\Services\\IDpService\\IDP.Domain\\IDP.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\projects\\EshopeProject\\Eshope\\Src\\Services\\IDpService\\IDP.Domain\\IDP.Domain.csproj",
+        "projectName": "IDP.Domain",
+        "projectPath": "D:\\projects\\EshopeProject\\Eshope\\Src\\Services\\IDpService\\IDP.Domain\\IDP.Domain.csproj",
+        "packagesPath": "C:\\Users\\shabani\\.nuget\\packages\\",
+        "outputPath": "D:\\projects\\EshopeProject\\Eshope\\Src\\Services\\IDpService\\IDP.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -50,12 +229,6 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "dependencies": {
-            "Swashbuckle.AspNetCore": {
-              "target": "Package",
-              "version": "[6.6.2, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",
@@ -68,9 +241,76 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
-            "Microsoft.AspNetCore.App": {
-              "privateAssets": "none"
-            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\projects\\EshopeProject\\Eshope\\Src\\Services\\IDpService\\IDP.Infra\\IDP.Infra.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\projects\\EshopeProject\\Eshope\\Src\\Services\\IDpService\\IDP.Infra\\IDP.Infra.csproj",
+        "projectName": "IDP.Infra",
+        "projectPath": "D:\\projects\\EshopeProject\\Eshope\\Src\\Services\\IDpService\\IDP.Infra\\IDP.Infra.csproj",
+        "packagesPath": "C:\\Users\\shabani\\.nuget\\packages\\",
+        "outputPath": "D:\\projects\\EshopeProject\\Eshope\\Src\\Services\\IDpService\\IDP.Infra\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\shabani\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://nuget.pouyaandishan.local/nuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\projects\\EshopeProject\\Eshope\\Src\\Services\\IDpService\\IDP.Domain\\IDP.Domain.csproj": {
+                "projectPath": "D:\\projects\\EshopeProject\\Eshope\\Src\\Services\\IDpService\\IDP.Domain\\IDP.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
