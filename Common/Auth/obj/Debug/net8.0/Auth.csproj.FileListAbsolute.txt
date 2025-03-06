@@ -10,3 +10,4 @@ D:\projects\EshopeProject\Eshope\Common\Auth\obj\Debug\net8.0\Auth.dll
 D:\projects\EshopeProject\Eshope\Common\Auth\obj\Debug\net8.0\refint\Auth.dll
 D:\projects\EshopeProject\Eshope\Common\Auth\obj\Debug\net8.0\Auth.pdb
 D:\projects\EshopeProject\Eshope\Common\Auth\obj\Debug\net8.0\ref\Auth.dll
+D:\projects\EshopeProject\Eshope\Common\Auth\obj\Debug\net8.0\Auth.csproj.AssemblyReference.cache

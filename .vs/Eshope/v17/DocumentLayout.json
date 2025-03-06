@@ -3,36 +3,100 @@
   "WorkspaceRootPath": "D:\\projects\\EshopeProject\\Eshope\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{47373A40-7368-453D-9F02-DCC4137DC681}|Src\\Services\\IDpService\\IDP.Domain\\IDP.Domain.csproj|d:\\projects\\eshopeproject\\eshope\\src\\services\\idpservice\\idp.domain\\irepository\\command\\iusercommandrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{47373A40-7368-453D-9F02-DCC4137DC681}|Src\\Services\\IDpService\\IDP.Domain\\IDP.Domain.csproj|solutionrelative:src\\services\\idpservice\\idp.domain\\irepository\\command\\iusercommandrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C94027F5-DB5B-433D-813D-1F7DA5B13AF2}|Src\\Services\\IDpService\\IDP.Infra\\IDP.Infra.csproj|d:\\projects\\eshopeproject\\eshope\\src\\services\\idpservice\\idp.infra\\migrations\\20250305124919_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C94027F5-DB5B-433D-813D-1F7DA5B13AF2}|Src\\Services\\IDpService\\IDP.Infra\\IDP.Infra.csproj|solutionrelative:src\\services\\idpservice\\idp.infra\\migrations\\20250305124919_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{47373A40-7368-453D-9F02-DCC4137DC681}|Src\\Services\\IDpService\\IDP.Domain\\IDP.Domain.csproj|d:\\projects\\eshopeproject\\eshope\\src\\services\\idpservice\\idp.domain\\irepository\\command\\base\\icommandrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{47373A40-7368-453D-9F02-DCC4137DC681}|Src\\Services\\IDpService\\IDP.Domain\\IDP.Domain.csproj|solutionrelative:src\\services\\idpservice\\idp.domain\\irepository\\command\\base\\icommandrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{47373A40-7368-453D-9F02-DCC4137DC681}|Src\\Services\\IDpService\\IDP.Domain\\IDP.Domain.csproj|d:\\projects\\eshopeproject\\eshope\\src\\services\\idpservice\\idp.domain\\entites\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{47373A40-7368-453D-9F02-DCC4137DC681}|Src\\Services\\IDpService\\IDP.Domain\\IDP.Domain.csproj|solutionrelative:src\\services\\idpservice\\idp.domain\\entites\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C94027F5-DB5B-433D-813D-1F7DA5B13AF2}|Src\\Services\\IDpService\\IDP.Infra\\IDP.Infra.csproj|d:\\projects\\eshopeproject\\eshope\\src\\services\\idpservice\\idp.infra\\migrations\\shopdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C94027F5-DB5B-433D-813D-1F7DA5B13AF2}|Src\\Services\\IDpService\\IDP.Infra\\IDP.Infra.csproj|solutionrelative:src\\services\\idpservice\\idp.infra\\migrations\\shopdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B788E49F-4EAC-4B25-BCE1-A044FB0EC277}|Src\\Services\\IDpService\\IDP.Api\\IDP.Api.csproj|d:\\projects\\eshopeproject\\eshope\\src\\services\\idpservice\\idp.api\\idp.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{B788E49F-4EAC-4B25-BCE1-A044FB0EC277}|Src\\Services\\IDpService\\IDP.Api\\IDP.Api.csproj|solutionrelative:src\\services\\idpservice\\idp.api\\idp.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B788E49F-4EAC-4B25-BCE1-A044FB0EC277}|Src\\Services\\IDpService\\IDP.Api\\IDP.Api.csproj|d:\\projects\\eshopeproject\\eshope\\src\\services\\idpservice\\idp.api\\controllers\\v1\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B788E49F-4EAC-4B25-BCE1-A044FB0EC277}|Src\\Services\\IDpService\\IDP.Api\\IDP.Api.csproj|solutionrelative:src\\services\\idpservice\\idp.api\\controllers\\v1\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C94027F5-DB5B-433D-813D-1F7DA5B13AF2}|Src\\Services\\IDpService\\IDP.Infra\\IDP.Infra.csproj|d:\\projects\\eshopeproject\\eshope\\src\\services\\idpservice\\idp.infra\\data\\shopdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C94027F5-DB5B-433D-813D-1F7DA5B13AF2}|Src\\Services\\IDpService\\IDP.Infra\\IDP.Infra.csproj|solutionrelative:src\\services\\idpservice\\idp.infra\\data\\shopdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8BE9EFE3-17F3-4013-B95A-2EC6A46AB346}|Src\\Services\\IDpService\\IDp.Application\\IDp.Application.csproj|d:\\projects\\eshopeproject\\eshope\\src\\services\\idpservice\\idp.application\\handler\\command\\user\\userhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8BE9EFE3-17F3-4013-B95A-2EC6A46AB346}|Src\\Services\\IDpService\\IDp.Application\\IDp.Application.csproj|solutionrelative:src\\services\\idpservice\\idp.application\\handler\\command\\user\\userhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C94027F5-DB5B-433D-813D-1F7DA5B13AF2}|Src\\Services\\IDpService\\IDP.Infra\\IDP.Infra.csproj|d:\\projects\\eshopeproject\\eshope\\src\\services\\idpservice\\idp.infra\\idp.infra.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C94027F5-DB5B-433D-813D-1F7DA5B13AF2}|Src\\Services\\IDpService\\IDP.Infra\\IDP.Infra.csproj|solutionrelative:src\\services\\idpservice\\idp.infra\\idp.infra.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B788E49F-4EAC-4B25-BCE1-A044FB0EC277}|Src\\Services\\IDpService\\IDP.Api\\IDP.Api.csproj|d:\\projects\\eshopeproject\\eshope\\src\\services\\idpservice\\idp.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B788E49F-4EAC-4B25-BCE1-A044FB0EC277}|Src\\Services\\IDpService\\IDP.Api\\IDP.Api.csproj|solutionrelative:src\\services\\idpservice\\idp.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40DA0C54-785E-4C14-8B51-74C9DF72FC4F}|Common\\Auth\\Auth.csproj|d:\\projects\\eshopeproject\\eshope\\common\\auth\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40DA0C54-785E-4C14-8B51-74C9DF72FC4F}|Common\\Auth\\Auth.csproj|solutionrelative:common\\auth\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40DA0C54-785E-4C14-8B51-74C9DF72FC4F}|Common\\Auth\\Auth.csproj|d:\\projects\\eshopeproject\\eshope\\common\\auth\\jwtoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40DA0C54-785E-4C14-8B51-74C9DF72FC4F}|Common\\Auth\\Auth.csproj|solutionrelative:common\\auth\\jwtoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B788E49F-4EAC-4B25-BCE1-A044FB0EC277}|Src\\Services\\IDpService\\IDP.Api\\IDP.Api.csproj|d:\\projects\\eshopeproject\\eshope\\src\\services\\idpservice\\idp.api\\controllers\\v1\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B788E49F-4EAC-4B25-BCE1-A044FB0EC277}|Src\\Services\\IDpService\\IDP.Api\\IDP.Api.csproj|solutionrelative:src\\services\\idpservice\\idp.api\\controllers\\v1\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40DA0C54-785E-4C14-8B51-74C9DF72FC4F}|Common\\Auth\\Auth.csproj|d:\\projects\\eshopeproject\\eshope\\common\\auth\\auth.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{40DA0C54-785E-4C14-8B51-74C9DF72FC4F}|Common\\Auth\\Auth.csproj|solutionrelative:common\\auth\\auth.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BE9EFE3-17F3-4013-B95A-2EC6A46AB346}|Src\\Services\\IDpService\\IDp.Application\\IDp.Application.csproj|d:\\projects\\eshopeproject\\eshope\\src\\services\\idpservice\\idp.application\\idp.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8BE9EFE3-17F3-4013-B95A-2EC6A46AB346}|Src\\Services\\IDpService\\IDp.Application\\IDp.Application.csproj|solutionrelative:src\\services\\idpservice\\idp.application\\idp.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BE9EFE3-17F3-4013-B95A-2EC6A46AB346}|Src\\Services\\IDpService\\IDp.Application\\IDp.Application.csproj|d:\\projects\\eshopeproject\\eshope\\src\\services\\idpservice\\idp.application\\handler\\query\\auth\\authhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BE9EFE3-17F3-4013-B95A-2EC6A46AB346}|Src\\Services\\IDpService\\IDp.Application\\IDp.Application.csproj|solutionrelative:src\\services\\idpservice\\idp.application\\handler\\query\\auth\\authhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B788E49F-4EAC-4B25-BCE1-A044FB0EC277}|Src\\Services\\IDpService\\IDP.Api\\IDP.Api.csproj|d:\\projects\\eshopeproject\\eshope\\src\\services\\idpservice\\idp.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B788E49F-4EAC-4B25-BCE1-A044FB0EC277}|Src\\Services\\IDpService\\IDP.Api\\IDP.Api.csproj|solutionrelative:src\\services\\idpservice\\idp.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8BE9EFE3-17F3-4013-B95A-2EC6A46AB346}|Src\\Services\\IDpService\\IDp.Application\\IDp.Application.csproj|d:\\projects\\eshopeproject\\eshope\\src\\services\\idpservice\\idp.application\\idp.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{8BE9EFE3-17F3-4013-B95A-2EC6A46AB346}|Src\\Services\\IDpService\\IDp.Application\\IDp.Application.csproj|solutionrelative:src\\services\\idpservice\\idp.application\\idp.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{B788E49F-4EAC-4B25-BCE1-A044FB0EC277}|Src\\Services\\IDpService\\IDP.Api\\IDP.Api.csproj|d:\\projects\\eshopeproject\\eshope\\src\\services\\idpservice\\idp.api\\controllers\\v1\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B788E49F-4EAC-4B25-BCE1-A044FB0EC277}|Src\\Services\\IDpService\\IDP.Api\\IDP.Api.csproj|solutionrelative:src\\services\\idpservice\\idp.api\\controllers\\v1\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BE9EFE3-17F3-4013-B95A-2EC6A46AB346}|Src\\Services\\IDpService\\IDp.Application\\IDp.Application.csproj|d:\\projects\\eshopeproject\\eshope\\src\\services\\idpservice\\idp.application\\query\\auth\\authquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BE9EFE3-17F3-4013-B95A-2EC6A46AB346}|Src\\Services\\IDpService\\IDp.Application\\IDp.Application.csproj|solutionrelative:src\\services\\idpservice\\idp.application\\query\\auth\\authquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BE9EFE3-17F3-4013-B95A-2EC6A46AB346}|Src\\Services\\IDpService\\IDp.Application\\IDp.Application.csproj|d:\\projects\\eshopeproject\\eshope\\src\\services\\idpservice\\idp.application\\handler\\command\\user\\userhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BE9EFE3-17F3-4013-B95A-2EC6A46AB346}|Src\\Services\\IDpService\\IDp.Application\\IDp.Application.csproj|solutionrelative:src\\services\\idpservice\\idp.application\\handler\\command\\user\\userhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B788E49F-4EAC-4B25-BCE1-A044FB0EC277}|Src\\Services\\IDpService\\IDP.Api\\IDP.Api.csproj|d:\\projects\\eshopeproject\\eshope\\src\\services\\idpservice\\idp.api\\controllers\\basecontroller\\ibasecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B788E49F-4EAC-4B25-BCE1-A044FB0EC277}|Src\\Services\\IDpService\\IDP.Api\\IDP.Api.csproj|solutionrelative:src\\services\\idpservice\\idp.api\\controllers\\basecontroller\\ibasecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40DA0C54-785E-4C14-8B51-74C9DF72FC4F}|Common\\Auth\\Auth.csproj|d:\\projects\\eshopeproject\\eshope\\common\\auth\\ijwthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40DA0C54-785E-4C14-8B51-74C9DF72FC4F}|Common\\Auth\\Auth.csproj|solutionrelative:common\\auth\\ijwthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40DA0C54-785E-4C14-8B51-74C9DF72FC4F}|Common\\Auth\\Auth.csproj|d:\\projects\\eshopeproject\\eshope\\common\\auth\\jsonwebtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40DA0C54-785E-4C14-8B51-74C9DF72FC4F}|Common\\Auth\\Auth.csproj|solutionrelative:common\\auth\\jsonwebtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47373A40-7368-453D-9F02-DCC4137DC681}|Src\\Services\\IDpService\\IDP.Domain\\IDP.Domain.csproj|d:\\projects\\eshopeproject\\eshope\\src\\services\\idpservice\\idp.domain\\irepository\\command\\iusercommandrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47373A40-7368-453D-9F02-DCC4137DC681}|Src\\Services\\IDpService\\IDP.Domain\\IDP.Domain.csproj|solutionrelative:src\\services\\idpservice\\idp.domain\\irepository\\command\\iusercommandrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47373A40-7368-453D-9F02-DCC4137DC681}|Src\\Services\\IDpService\\IDP.Domain\\IDP.Domain.csproj|d:\\projects\\eshopeproject\\eshope\\src\\services\\idpservice\\idp.domain\\entites\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47373A40-7368-453D-9F02-DCC4137DC681}|Src\\Services\\IDpService\\IDP.Domain\\IDP.Domain.csproj|solutionrelative:src\\services\\idpservice\\idp.domain\\entites\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B788E49F-4EAC-4B25-BCE1-A044FB0EC277}|Src\\Services\\IDpService\\IDP.Api\\IDP.Api.csproj|d:\\projects\\eshopeproject\\eshope\\src\\services\\idpservice\\idp.api\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B788E49F-4EAC-4B25-BCE1-A044FB0EC277}|Src\\Services\\IDpService\\IDP.Api\\IDP.Api.csproj|solutionrelative:src\\services\\idpservice\\idp.api\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B788E49F-4EAC-4B25-BCE1-A044FB0EC277}|Src\\Services\\IDpService\\IDP.Api\\IDP.Api.csproj|d:\\projects\\eshopeproject\\eshope\\src\\services\\idpservice\\idp.api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B788E49F-4EAC-4B25-BCE1-A044FB0EC277}|Src\\Services\\IDpService\\IDP.Api\\IDP.Api.csproj|solutionrelative:src\\services\\idpservice\\idp.api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47373A40-7368-453D-9F02-DCC4137DC681}|Src\\Services\\IDpService\\IDP.Domain\\IDP.Domain.csproj|d:\\projects\\eshopeproject\\eshope\\src\\services\\idpservice\\idp.domain\\irepository\\command\\base\\icommandrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47373A40-7368-453D-9F02-DCC4137DC681}|Src\\Services\\IDpService\\IDP.Domain\\IDP.Domain.csproj|solutionrelative:src\\services\\idpservice\\idp.domain\\irepository\\command\\base\\icommandrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{47373A40-7368-453D-9F02-DCC4137DC681}|Src\\Services\\IDpService\\IDP.Domain\\IDP.Domain.csproj|d:\\projects\\eshopeproject\\eshope\\src\\services\\idpservice\\idp.domain\\idp.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -59,22 +123,6 @@
       "RelativeMoniker": "D:0:0:{47373A40-7368-453D-9F02-DCC4137DC681}|Src\\Services\\IDpService\\IDP.Domain\\IDP.Domain.csproj|solutionrelative:src\\services\\idpservice\\idp.domain\\entites\\baseentites\\baseentitiy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B788E49F-4EAC-4B25-BCE1-A044FB0EC277}|Src\\Services\\IDpService\\IDP.Api\\IDP.Api.csproj|d:\\projects\\eshopeproject\\eshope\\src\\services\\idpservice\\idp.api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B788E49F-4EAC-4B25-BCE1-A044FB0EC277}|Src\\Services\\IDpService\\IDP.Api\\IDP.Api.csproj|solutionrelative:src\\services\\idpservice\\idp.api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B788E49F-4EAC-4B25-BCE1-A044FB0EC277}|Src\\Services\\IDpService\\IDP.Api\\IDP.Api.csproj|d:\\projects\\eshopeproject\\eshope\\src\\services\\idpservice\\idp.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{B788E49F-4EAC-4B25-BCE1-A044FB0EC277}|Src\\Services\\IDpService\\IDP.Api\\IDP.Api.csproj|solutionrelative:src\\services\\idpservice\\idp.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B788E49F-4EAC-4B25-BCE1-A044FB0EC277}|Src\\Services\\IDpService\\IDP.Api\\IDP.Api.csproj|d:\\projects\\eshopeproject\\eshope\\src\\services\\idpservice\\idp.api\\controllers\\basecontroller\\ibasecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B788E49F-4EAC-4B25-BCE1-A044FB0EC277}|Src\\Services\\IDpService\\IDP.Api\\IDP.Api.csproj|solutionrelative:src\\services\\idpservice\\idp.api\\controllers\\basecontroller\\ibasecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B788E49F-4EAC-4B25-BCE1-A044FB0EC277}|Src\\Services\\IDpService\\IDP.Api\\IDP.Api.csproj|d:\\projects\\eshopeproject\\eshope\\src\\services\\idpservice\\idp.api\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B788E49F-4EAC-4B25-BCE1-A044FB0EC277}|Src\\Services\\IDpService\\IDP.Api\\IDP.Api.csproj|solutionrelative:src\\services\\idpservice\\idp.api\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B788E49F-4EAC-4B25-BCE1-A044FB0EC277}|Src\\Services\\IDpService\\IDP.Api\\IDP.Api.csproj|d:\\projects\\eshopeproject\\eshope\\src\\services\\idpservice\\idp.api\\idp.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
       "RelativeMoniker": "D:0:0:{B788E49F-4EAC-4B25-BCE1-A044FB0EC277}|Src\\Services\\IDpService\\IDP.Api\\IDP.Api.csproj|solutionrelative:src\\services\\idpservice\\idp.api\\idp.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
     }
@@ -89,12 +137,164 @@
           "SelectedChildIndex": 1,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ShopDbContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\projects\\EshopeProject\\Eshope\\Src\\Services\\IDpService\\IDP.Infra\\Migrations\\ShopDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Src\\Services\\IDpService\\IDP.Infra\\Migrations\\ShopDbContextModelSnapshot.cs",
+              "ToolTip": "D:\\projects\\EshopeProject\\Eshope\\Src\\Services\\IDpService\\IDP.Infra\\Migrations\\ShopDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Src\\Services\\IDpService\\IDP.Infra\\Migrations\\ShopDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T12:49:41.127Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "20250305124919_init.cs",
+              "DocumentMoniker": "D:\\projects\\EshopeProject\\Eshope\\Src\\Services\\IDpService\\IDP.Infra\\Migrations\\20250305124919_init.cs",
+              "RelativeDocumentMoniker": "Src\\Services\\IDpService\\IDP.Infra\\Migrations\\20250305124919_init.cs",
+              "ToolTip": "D:\\projects\\EshopeProject\\Eshope\\Src\\Services\\IDpService\\IDP.Infra\\Migrations\\20250305124919_init.cs",
+              "RelativeToolTip": "Src\\Services\\IDpService\\IDP.Infra\\Migrations\\20250305124919_init.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T12:49:19.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "JwtOptions.cs",
+              "DocumentMoniker": "D:\\projects\\EshopeProject\\Eshope\\Common\\Auth\\JwtOptions.cs",
+              "RelativeDocumentMoniker": "Common\\Auth\\JwtOptions.cs",
+              "ToolTip": "D:\\projects\\EshopeProject\\Eshope\\Common\\Auth\\JwtOptions.cs",
+              "RelativeToolTip": "Common\\Auth\\JwtOptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T11:19:26.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IDP.Infra.csproj",
+              "DocumentMoniker": "D:\\projects\\EshopeProject\\Eshope\\Src\\Services\\IDpService\\IDP.Infra\\IDP.Infra.csproj",
+              "RelativeDocumentMoniker": "Src\\Services\\IDpService\\IDP.Infra\\IDP.Infra.csproj",
+              "ToolTip": "D:\\projects\\EshopeProject\\Eshope\\Src\\Services\\IDpService\\IDP.Infra\\IDP.Infra.csproj",
+              "RelativeToolTip": "Src\\Services\\IDpService\\IDP.Infra\\IDP.Infra.csproj",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-05T10:38:08.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ShopDbContext.cs",
+              "DocumentMoniker": "D:\\projects\\EshopeProject\\Eshope\\Src\\Services\\IDpService\\IDP.Infra\\Data\\ShopDbContext.cs",
+              "RelativeDocumentMoniker": "Src\\Services\\IDpService\\IDP.Infra\\Data\\ShopDbContext.cs",
+              "ToolTip": "D:\\projects\\EshopeProject\\Eshope\\Src\\Services\\IDpService\\IDP.Infra\\Data\\ShopDbContext.cs",
+              "RelativeToolTip": "Src\\Services\\IDpService\\IDP.Infra\\Data\\ShopDbContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T10:20:37.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AuthHandler.cs",
+              "DocumentMoniker": "D:\\projects\\EshopeProject\\Eshope\\Src\\Services\\IDpService\\IDp.Application\\Handler\\Query\\Auth\\AuthHandler.cs",
+              "RelativeDocumentMoniker": "Src\\Services\\IDpService\\IDp.Application\\Handler\\Query\\Auth\\AuthHandler.cs",
+              "ToolTip": "D:\\projects\\EshopeProject\\Eshope\\Src\\Services\\IDpService\\IDp.Application\\Handler\\Query\\Auth\\AuthHandler.cs",
+              "RelativeToolTip": "Src\\Services\\IDpService\\IDp.Application\\Handler\\Query\\Auth\\AuthHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T10:03:26.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AuthQuery.cs",
+              "DocumentMoniker": "D:\\projects\\EshopeProject\\Eshope\\Src\\Services\\IDpService\\IDp.Application\\Query\\Auth\\AuthQuery.cs",
+              "RelativeDocumentMoniker": "Src\\Services\\IDpService\\IDp.Application\\Query\\Auth\\AuthQuery.cs",
+              "ToolTip": "D:\\projects\\EshopeProject\\Eshope\\Src\\Services\\IDpService\\IDp.Application\\Query\\Auth\\AuthQuery.cs",
+              "RelativeToolTip": "Src\\Services\\IDpService\\IDp.Application\\Query\\Auth\\AuthQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T10:00:47.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\projects\\EshopeProject\\Eshope\\Src\\Services\\IDpService\\IDP.Api\\Controllers\\V1\\AuthController.cs",
+              "RelativeDocumentMoniker": "Src\\Services\\IDpService\\IDP.Api\\Controllers\\V1\\AuthController.cs",
+              "ToolTip": "D:\\projects\\EshopeProject\\Eshope\\Src\\Services\\IDpService\\IDP.Api\\Controllers\\V1\\AuthController.cs",
+              "RelativeToolTip": "Src\\Services\\IDpService\\IDP.Api\\Controllers\\V1\\AuthController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T09:54:01.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Extensions.cs",
+              "DocumentMoniker": "D:\\projects\\EshopeProject\\Eshope\\Common\\Auth\\Extensions.cs",
+              "RelativeDocumentMoniker": "Common\\Auth\\Extensions.cs",
+              "ToolTip": "D:\\projects\\EshopeProject\\Eshope\\Common\\Auth\\Extensions.cs",
+              "RelativeToolTip": "Common\\Auth\\Extensions.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T11:44:01.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Auth.csproj",
+              "DocumentMoniker": "D:\\projects\\EshopeProject\\Eshope\\Common\\Auth\\Auth.csproj",
+              "RelativeDocumentMoniker": "Common\\Auth\\Auth.csproj",
+              "ToolTip": "D:\\projects\\EshopeProject\\Eshope\\Common\\Auth\\Auth.csproj",
+              "RelativeToolTip": "Common\\Auth\\Auth.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-03T10:58:16.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "JsonWebToken.cs",
+              "DocumentMoniker": "D:\\projects\\EshopeProject\\Eshope\\Common\\Auth\\JsonWebToken.cs",
+              "RelativeDocumentMoniker": "Common\\Auth\\JsonWebToken.cs",
+              "ToolTip": "D:\\projects\\EshopeProject\\Eshope\\Common\\Auth\\JsonWebToken.cs",
+              "RelativeToolTip": "Common\\Auth\\JsonWebToken.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T11:31:47.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IJwtHandler.cs",
+              "DocumentMoniker": "D:\\projects\\EshopeProject\\Eshope\\Common\\Auth\\IJwtHandler.cs",
+              "RelativeDocumentMoniker": "Common\\Auth\\IJwtHandler.cs",
+              "ToolTip": "D:\\projects\\EshopeProject\\Eshope\\Common\\Auth\\IJwtHandler.cs",
+              "RelativeToolTip": "Common\\Auth\\IJwtHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T11:20:38.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
               "Title": "IUserCommandRepository.cs",
               "DocumentMoniker": "D:\\projects\\EshopeProject\\Eshope\\Src\\Services\\IDpService\\IDP.Domain\\IRepository\\Command\\IUserCommandRepository.cs",
               "RelativeDocumentMoniker": "Src\\Services\\IDpService\\IDP.Domain\\IRepository\\Command\\IUserCommandRepository.cs",
@@ -107,7 +307,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 23,
               "Title": "ICommandRepository.cs",
               "DocumentMoniker": "D:\\projects\\EshopeProject\\Eshope\\Src\\Services\\IDpService\\IDP.Domain\\IRepository\\Command\\Base\\ICommandRepository.cs",
               "RelativeDocumentMoniker": "Src\\Services\\IDpService\\IDP.Domain\\IRepository\\Command\\Base\\ICommandRepository.cs",
@@ -119,13 +319,9 @@
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "IDP.Domain",
+              "DocumentIndex": 24,
+              "Title": "IDP.Domain.csproj",
               "DocumentMoniker": "D:\\projects\\EshopeProject\\Eshope\\Src\\Services\\IDpService\\IDP.Domain\\IDP.Domain.csproj",
               "RelativeDocumentMoniker": "Src\\Services\\IDpService\\IDP.Domain\\IDP.Domain.csproj",
               "ToolTip": "D:\\projects\\EshopeProject\\Eshope\\Src\\Services\\IDpService\\IDP.Domain\\IDP.Domain.csproj",
@@ -137,20 +333,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "IDp.Application",
+              "DocumentIndex": 10,
+              "Title": "IDp.Application.csproj",
               "DocumentMoniker": "D:\\projects\\EshopeProject\\Eshope\\Src\\Services\\IDpService\\IDp.Application\\IDp.Application.csproj",
               "RelativeDocumentMoniker": "Src\\Services\\IDpService\\IDp.Application\\IDp.Application.csproj",
               "ToolTip": "D:\\projects\\EshopeProject\\Eshope\\Src\\Services\\IDpService\\IDp.Application\\IDp.Application.csproj",
               "RelativeToolTip": "Src\\Services\\IDpService\\IDp.Application\\IDp.Application.csproj",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBZwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-02-28T11:55:32.975Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 20,
               "Title": "User.cs",
               "DocumentMoniker": "D:\\projects\\EshopeProject\\Eshope\\Src\\Services\\IDpService\\IDP.Domain\\Entites\\User.cs",
               "RelativeDocumentMoniker": "Src\\Services\\IDpService\\IDP.Domain\\Entites\\User.cs",
@@ -163,7 +359,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 25,
               "Title": "IDp.UnitTest",
               "DocumentMoniker": "D:\\projects\\EshopeProject\\Eshope\\Src\\Services\\IDpService\\IDp.UnitTest\\IDp.UnitTest.csproj",
               "RelativeDocumentMoniker": "Src\\Services\\IDpService\\IDp.UnitTest\\IDp.UnitTest.csproj",
@@ -175,7 +371,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 26,
               "Title": "IDP.Ioc",
               "DocumentMoniker": "D:\\projects\\EshopeProject\\Eshope\\Src\\Services\\IDpService\\IDP.Ioc\\IDP.Ioc.csproj",
               "RelativeDocumentMoniker": "Src\\Services\\IDpService\\IDP.Ioc\\IDP.Ioc.csproj",
@@ -187,7 +383,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 27,
               "Title": "IDp.Application",
               "DocumentMoniker": "D:\\projects\\EshopeProject\\Eshope\\Src\\Services\\IDpService\\IDp.Application\\IDp.Application.csproj",
               "RelativeDocumentMoniker": "Src\\Services\\IDpService\\IDp.Application\\IDp.Application.csproj",
@@ -199,7 +395,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 28,
               "Title": "IDP.Domain",
               "DocumentMoniker": "D:\\projects\\EshopeProject\\Eshope\\Src\\Services\\IDpService\\IDP.Domain\\IDP.Domain.csproj",
               "RelativeDocumentMoniker": "Src\\Services\\IDpService\\IDP.Domain\\IDP.Domain.csproj",
@@ -211,7 +407,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 29,
               "Title": "BaseEntitiy.cs",
               "DocumentMoniker": "D:\\projects\\EshopeProject\\Eshope\\Src\\Services\\IDpService\\IDP.Domain\\Entites\\BaseEntites\\BaseEntitiy.cs",
               "RelativeDocumentMoniker": "Src\\Services\\IDpService\\IDP.Domain\\Entites\\BaseEntites\\BaseEntitiy.cs",
@@ -224,7 +420,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 15,
               "Title": "UserHandler.cs",
               "DocumentMoniker": "D:\\projects\\EshopeProject\\Eshope\\Src\\Services\\IDpService\\IDp.Application\\Handler\\Command\\User\\UserHandler.cs",
               "RelativeDocumentMoniker": "Src\\Services\\IDpService\\IDp.Application\\Handler\\Command\\User\\UserHandler.cs",
@@ -237,26 +433,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "IDP.Api",
+              "DocumentIndex": 2,
+              "Title": "IDP.Api.csproj",
               "DocumentMoniker": "D:\\projects\\EshopeProject\\Eshope\\Src\\Services\\IDpService\\IDP.Api\\IDP.Api.csproj",
               "RelativeDocumentMoniker": "Src\\Services\\IDpService\\IDP.Api\\IDP.Api.csproj",
               "ToolTip": "D:\\projects\\EshopeProject\\Eshope\\Src\\Services\\IDpService\\IDP.Api\\IDP.Api.csproj",
               "RelativeToolTip": "Src\\Services\\IDpService\\IDP.Api\\IDP.Api.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABkAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-02-28T08:58:42.819Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 13,
               "Title": "UserController.cs",
               "DocumentMoniker": "D:\\projects\\EshopeProject\\Eshope\\Src\\Services\\IDpService\\IDP.Api\\Controllers\\V1\\UserController.cs",
               "RelativeDocumentMoniker": "Src\\Services\\IDpService\\IDP.Api\\Controllers\\V1\\UserController.cs",
               "ToolTip": "D:\\projects\\EshopeProject\\Eshope\\Src\\Services\\IDpService\\IDP.Api\\Controllers\\V1\\UserController.cs",
               "RelativeToolTip": "Src\\Services\\IDpService\\IDP.Api\\Controllers\\V1\\UserController.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAAABIAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAxwAkAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-27T09:54:38.439Z",
               "EditorCaption": ""
@@ -269,14 +465,14 @@
               "RelativeDocumentMoniker": "Src\\Services\\IDpService\\IDP.Api\\Controllers\\BaseController\\IBaseController.cs",
               "ToolTip": "D:\\projects\\EshopeProject\\Eshope\\Src\\Services\\IDpService\\IDP.Api\\Controllers\\BaseController\\IBaseController.cs",
               "RelativeToolTip": "Src\\Services\\IDpService\\IDP.Api\\Controllers\\BaseController\\IBaseController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBZwAgAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-27T09:52:58.211Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 21,
               "Title": "WeatherForecast.cs",
               "DocumentMoniker": "D:\\projects\\EshopeProject\\Eshope\\Src\\Services\\IDpService\\IDP.Api\\WeatherForecast.cs",
               "RelativeDocumentMoniker": "Src\\Services\\IDpService\\IDP.Api\\WeatherForecast.cs",
@@ -289,20 +485,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 12,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\projects\\EshopeProject\\Eshope\\Src\\Services\\IDpService\\IDP.Api\\Program.cs",
               "RelativeDocumentMoniker": "Src\\Services\\IDpService\\IDP.Api\\Program.cs",
               "ToolTip": "D:\\projects\\EshopeProject\\Eshope\\Src\\Services\\IDpService\\IDP.Api\\Program.cs",
               "RelativeToolTip": "Src\\Services\\IDpService\\IDP.Api\\Program.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAAABgAAAALAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-27T09:40:33.869Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 30,
               "Title": "IDP.Api.http",
               "DocumentMoniker": "D:\\projects\\EshopeProject\\Eshope\\Src\\Services\\IDpService\\IDP.Api\\IDP.Api.http",
               "RelativeDocumentMoniker": "Src\\Services\\IDpService\\IDP.Api\\IDP.Api.http",
@@ -315,20 +511,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 5,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\projects\\EshopeProject\\Eshope\\Src\\Services\\IDpService\\IDP.Api\\appsettings.json",
               "RelativeDocumentMoniker": "Src\\Services\\IDpService\\IDP.Api\\appsettings.json",
               "ToolTip": "D:\\projects\\EshopeProject\\Eshope\\Src\\Services\\IDpService\\IDP.Api\\appsettings.json",
               "RelativeToolTip": "Src\\Services\\IDpService\\IDP.Api\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-02-27T09:40:21.589Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 22,
               "Title": "WeatherForecastController.cs",
               "DocumentMoniker": "D:\\projects\\EshopeProject\\Eshope\\Src\\Services\\IDpService\\IDP.Api\\Controllers\\WeatherForecastController.cs",
               "RelativeDocumentMoniker": "Src\\Services\\IDpService\\IDP.Api\\Controllers\\WeatherForecastController.cs",

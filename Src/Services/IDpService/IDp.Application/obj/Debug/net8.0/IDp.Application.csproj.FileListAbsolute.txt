@@ -16,3 +16,5 @@ D:\projects\EshopeProject\Eshope\Src\Services\IDpService\IDp.Application\bin\Deb
 D:\projects\EshopeProject\Eshope\Src\Services\IDpService\IDp.Application\bin\Debug\net8.0\IDP.Infra.dll
 D:\projects\EshopeProject\Eshope\Src\Services\IDpService\IDp.Application\bin\Debug\net8.0\IDP.Infra.pdb
 D:\projects\EshopeProject\Eshope\Src\Services\IDpService\IDp.Application\bin\Debug\net8.0\IDP.Domain.pdb
+D:\projects\EshopeProject\Eshope\Src\Services\IDpService\IDp.Application\bin\Debug\net8.0\Auth.dll
+D:\projects\EshopeProject\Eshope\Src\Services\IDpService\IDp.Application\bin\Debug\net8.0\Auth.pdb

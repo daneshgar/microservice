@@ -1,5 +1,21 @@
 [
   {
+    "ContainingType": "IDP.Api.Controllers.V1.AuthController",
+    "Method": "login",
+    "RelativePath": "api/v1/Auth",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "authQuery",
+        "Type": "IDp.Application.Query.Auth.AuthQuery",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "IDP.Api.Controllers.V1.UserController",
     "Method": "Insert",
     "RelativePath": "api/v1/User/Insert",
@@ -10,6 +26,22 @@
       {
         "Name": "userCommand",
         "Type": "IDp.Application.Command.User.UserCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "IDP.Api.Controllers.V1.AuthController",
+    "Method": "login",
+    "RelativePath": "api/v2/Auth",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "authQuery",
+        "Type": "IDp.Application.Query.Auth.AuthQuery",
         "IsRequired": true
       }
     ],
