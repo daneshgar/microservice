@@ -2,7 +2,7 @@
   {
     "ContainingType": "IDP.Api.Controllers.V1.AuthController",
     "Method": "login",
-    "RelativePath": "api/v1/Auth",
+    "RelativePath": "api/v1/Auth/login",
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
@@ -10,6 +10,22 @@
       {
         "Name": "authQuery",
         "Type": "IDp.Application.Query.Auth.AuthQuery",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "IDP.Api.Controllers.V1.AuthController",
+    "Method": "SendOtp",
+    "RelativePath": "api/v1/Auth/SendOtp",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "authCommand",
+        "Type": "IDp.Application.Command.Auth.AuthCommand",
         "IsRequired": true
       }
     ],
@@ -34,7 +50,7 @@
   {
     "ContainingType": "IDP.Api.Controllers.V1.AuthController",
     "Method": "login",
-    "RelativePath": "api/v2/Auth",
+    "RelativePath": "api/v2/Auth/login",
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
@@ -42,6 +58,22 @@
       {
         "Name": "authQuery",
         "Type": "IDp.Application.Query.Auth.AuthQuery",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "IDP.Api.Controllers.V1.AuthController",
+    "Method": "SendOtp",
+    "RelativePath": "api/v2/Auth/SendOtp",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "authCommand",
+        "Type": "IDp.Application.Command.Auth.AuthCommand",
         "IsRequired": true
       }
     ],

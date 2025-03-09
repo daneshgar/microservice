@@ -5,7 +5,7 @@
     "version": "1.0"
   },
   "paths": {
-    "/api/v1/Auth": {
+    "/api/v1/Auth/login": {
       "post": {
         "tags": [
           "Auth"
@@ -25,6 +25,37 @@
             "application/*+json": {
               "schema": {
                 "$ref": "#/components/schemas/AuthQuery"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/v1/Auth/SendOtp": {
+      "post": {
+        "tags": [
+          "Auth"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/AuthCommand"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/AuthCommand"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/AuthCommand"
               }
             }
           }
@@ -118,6 +149,19 @@
   },
   "components": {
     "schemas": {
+      "AuthCommand": {
+        "required": [
+          "mobileNumber"
+        ],
+        "type": "object",
+        "properties": {
+          "mobileNumber": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
       "AuthQuery": {
         "type": "object",
         "properties": {

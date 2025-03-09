@@ -30,9 +30,9 @@ namespace IDP.Infra.Repository.Command
 
         public async Task<bool> Insert(Otp entity)
         {
-            int time=Convert.ToInt32(_configuration.GetSection("Otp:OtpTime").Value);
+            int time = Convert.ToInt32(_configuration.GetSection("Otp:OtpTime").Value);
             _distributedCache.SetString(entity.UserId.ToString(), JsonConvert.SerializeObject(entity), new DistributedCacheEntryOptions().SetAbsoluteExpiration(TimeSpan.FromMinutes(time)));
-            return true:
+            return true;
         }
 
         public Task<bool> Update(Otp entity)

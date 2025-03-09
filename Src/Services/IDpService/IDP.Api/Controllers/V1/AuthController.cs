@@ -1,4 +1,5 @@
 ﻿using Asp.Versioning;
+using IDp.Application.Command.Auth;
 using IDp.Application.Query.Auth;
 using IDP.Api.Controllers.BaseController;
 using MediatR;
@@ -17,10 +18,16 @@ namespace IDP.Api.Controllers.V1
         {
             _mediator = mediator;
         }
-        [HttpPost]
+        [HttpPost("login")]
         public async Task<IActionResult> login([FromBody]AuthQuery authQuery)
         {
             var request=_mediator.Send(authQuery);
+            return Ok(request);
+        }
+        [HttpPost("SendOtp")]
+        public async Task<IActionResult> SendOtp([FromBody]AuthCommand authCommand)
+        {
+            var request=await _mediator.Send(authCommand);
             return Ok(request);
         }
     }
