@@ -8,8 +8,9 @@ namespace IDP.Domain.DTO
 {
     public class Otp
     {
-        public required string UserName { get; set; }
-        public required int Otpcode {  get; set; }
+        public  string UserName { get; set; }
+        public  int Otpcode {  get; set; }
+        public int UserId { get; set; }
         public bool IsUse { get; set; }
     }
 }

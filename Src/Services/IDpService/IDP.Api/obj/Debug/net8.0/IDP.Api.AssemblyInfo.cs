@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("IDP.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5c0a5565ff61f61e22034303bf732344ba639d82")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+be0967b744ec7e8b7363391df6ff47801304ac39")]
 [assembly: System.Reflection.AssemblyProductAttribute("IDP.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("IDP.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
