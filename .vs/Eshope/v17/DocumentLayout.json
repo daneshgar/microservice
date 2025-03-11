@@ -160,7 +160,7 @@
               "RelativeDocumentMoniker": "Src\\Services\\IDpService\\IDP.Domain\\DTO\\Otp.cs",
               "ToolTip": "D:\\projects\\EshopeProject\\Eshope\\Src\\Services\\IDpService\\IDP.Domain\\DTO\\Otp.cs",
               "RelativeToolTip": "Src\\Services\\IDpService\\IDP.Domain\\DTO\\Otp.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-09T08:24:36.68Z",
               "EditorCaption": ""
@@ -175,8 +175,7 @@
               "RelativeToolTip": "Src\\Services\\IDpService\\IDp.Application\\Handler\\Command\\Auth\\AuthHandler.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-09T07:41:21.764Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-09T07:41:21.764Z"
             },
             {
               "$type": "Document",
@@ -188,8 +187,7 @@
               "RelativeToolTip": "Src\\Services\\IDpService\\IDp.Application\\Command\\Auth\\AuthCommand.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-09T07:37:10.179Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-09T07:37:10.179Z"
             },
             {
               "$type": "Document",
@@ -201,8 +199,7 @@
               "RelativeToolTip": "Src\\Services\\IDpService\\IDp.Application\\Query\\Auth\\AuthQuery.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-09T07:37:00.878Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-09T07:37:00.878Z"
             },
             {
               "$type": "Document",
@@ -214,8 +211,7 @@
               "RelativeToolTip": "Src\\Services\\IDpService\\IDp.Application\\Command\\User\\UserCommand.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-09T07:33:37.367Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-09T07:33:37.367Z"
             },
             {
               "$type": "Document",
@@ -227,8 +223,7 @@
               "RelativeToolTip": "Src\\Services\\IDpService\\IDP.Domain\\IRepository\\Command\\IOtpRedisRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-09T05:54:45.598Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-09T05:54:45.598Z"
             },
             {
               "$type": "Document",
@@ -240,8 +235,7 @@
               "RelativeToolTip": "Src\\Services\\IDpService\\IDP.Infra\\Repository\\Command\\OtpRedisRepository.cs",
               "ViewState": "AgIAAAwAAAAAAAAAAAAqwB4AAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-09T05:52:15.935Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-09T05:52:15.935Z"
             },
             {
               "$type": "Document",
@@ -253,8 +247,7 @@
               "RelativeToolTip": "Src\\Services\\IDpService\\IDP.Infra\\Migrations\\ShopDbContextModelSnapshot.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T12:49:41.127Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-05T12:49:41.127Z"
             },
             {
               "$type": "Document",
@@ -266,8 +259,7 @@
               "RelativeToolTip": "Src\\Services\\IDpService\\IDP.Infra\\Migrations\\20250305124919_init.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T12:49:19.827Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-05T12:49:19.827Z"
             },
             {
               "$type": "Document",
@@ -279,8 +271,7 @@
               "RelativeToolTip": "Common\\Auth\\JwtOptions.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T11:19:26.7Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-05T11:19:26.7Z"
             },
             {
               "$type": "Document",
@@ -292,8 +283,7 @@
               "RelativeToolTip": "Src\\Services\\IDpService\\IDP.Infra\\IDP.Infra.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAIBZwBIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-03-05T10:38:08.713Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-05T10:38:08.713Z"
             },
             {
               "$type": "Document",
@@ -305,8 +295,7 @@
               "RelativeToolTip": "Src\\Services\\IDpService\\IDP.Infra\\Data\\ShopDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAIBJwBUAAABXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T10:20:37.572Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-05T10:20:37.572Z"
             },
             {
               "$type": "Document",
@@ -318,8 +307,7 @@
               "RelativeToolTip": "Src\\Services\\IDpService\\IDp.Application\\Handler\\Query\\Auth\\AuthHandler.cs",
               "ViewState": "AgIAAAEAAAAAAAAAAAAqwBUAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T10:03:26.421Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-05T10:03:26.421Z"
             },
             {
               "$type": "Document",
@@ -331,8 +319,7 @@
               "RelativeToolTip": "Src\\Services\\IDpService\\IDP.Api\\Controllers\\V1\\AuthController.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAIAwwBoAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T09:54:01.065Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-05T09:54:01.065Z"
             },
             {
               "$type": "Document",
@@ -344,8 +331,7 @@
               "RelativeToolTip": "Common\\Auth\\Extensions.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-03T11:44:01.432Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-03T11:44:01.432Z"
             },
             {
               "$type": "Document",
@@ -357,8 +343,7 @@
               "RelativeToolTip": "Common\\Auth\\Auth.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-03-03T10:58:16.813Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-03T10:58:16.813Z"
             },
             {
               "$type": "Document",
@@ -370,8 +355,7 @@
               "RelativeToolTip": "Common\\Auth\\JsonWebToken.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-03T11:31:47.496Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-03T11:31:47.496Z"
             },
             {
               "$type": "Document",
@@ -383,8 +367,7 @@
               "RelativeToolTip": "Common\\Auth\\IJwtHandler.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-03T11:20:38.112Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-03T11:20:38.112Z"
             },
             {
               "$type": "Document",
@@ -396,8 +379,7 @@
               "RelativeToolTip": "Src\\Services\\IDpService\\IDP.Domain\\IRepository\\Command\\IUserCommandRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-28T12:35:10.944Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-28T12:35:10.944Z"
             },
             {
               "$type": "Document",
@@ -409,8 +391,7 @@
               "RelativeToolTip": "Src\\Services\\IDpService\\IDP.Domain\\IRepository\\Command\\Base\\ICommandRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-28T12:29:20.22Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-28T12:29:20.22Z"
             },
             {
               "$type": "Document",
@@ -422,8 +403,7 @@
               "RelativeToolTip": "Src\\Services\\IDpService\\IDP.Domain\\IDP.Domain.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-02-28T11:48:08.564Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-28T11:48:08.564Z"
             },
             {
               "$type": "Document",
@@ -435,8 +415,7 @@
               "RelativeToolTip": "Src\\Services\\IDpService\\IDp.Application\\IDp.Application.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAIBZwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-02-28T11:55:32.975Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-28T11:55:32.975Z"
             },
             {
               "$type": "Document",
@@ -447,8 +426,7 @@
               "ToolTip": "D:\\projects\\EshopeProject\\Eshope\\Src\\Services\\IDpService\\IDp.UnitTest\\IDp.UnitTest.csproj",
               "RelativeToolTip": "Src\\Services\\IDpService\\IDp.UnitTest\\IDp.UnitTest.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-02-28T11:40:42.473Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-28T11:40:42.473Z"
             },
             {
               "$type": "Document",
@@ -459,8 +437,7 @@
               "ToolTip": "D:\\projects\\EshopeProject\\Eshope\\Src\\Services\\IDpService\\IDP.Ioc\\IDP.Ioc.csproj",
               "RelativeToolTip": "Src\\Services\\IDpService\\IDP.Ioc\\IDP.Ioc.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-02-28T11:40:32.066Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-28T11:40:32.066Z"
             },
             {
               "$type": "Document",
@@ -471,8 +448,7 @@
               "ToolTip": "D:\\projects\\EshopeProject\\Eshope\\Src\\Services\\IDpService\\IDp.Application\\IDp.Application.csproj",
               "RelativeToolTip": "Src\\Services\\IDpService\\IDp.Application\\IDp.Application.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-02-28T11:40:16.275Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-28T11:40:16.275Z"
             },
             {
               "$type": "Document",
@@ -483,8 +459,7 @@
               "ToolTip": "D:\\projects\\EshopeProject\\Eshope\\Src\\Services\\IDpService\\IDP.Domain\\IDP.Domain.csproj",
               "RelativeToolTip": "Src\\Services\\IDpService\\IDP.Domain\\IDP.Domain.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-02-28T11:40:10.3Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-28T11:40:10.3Z"
             },
             {
               "$type": "Document",
@@ -496,8 +471,7 @@
               "RelativeToolTip": "Src\\Services\\IDpService\\IDP.Domain\\Entites\\BaseEntites\\BaseEntitiy.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-28T10:55:06.036Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-28T10:55:06.036Z"
             },
             {
               "$type": "Document",
@@ -509,8 +483,7 @@
               "RelativeToolTip": "Src\\Services\\IDpService\\IDp.Application\\Handler\\Command\\User\\UserHandler.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-28T09:45:52.312Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-28T09:45:52.312Z"
             },
             {
               "$type": "Document",
@@ -522,8 +495,7 @@
               "RelativeToolTip": "Src\\Services\\IDpService\\IDP.Api\\Controllers\\V1\\UserController.cs",
               "ViewState": "AgIAAAQAAAAAAAAAAAAAAAkAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-27T09:54:38.439Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-27T09:54:38.439Z"
             },
             {
               "$type": "Document",
@@ -535,8 +507,7 @@
               "RelativeToolTip": "Src\\Services\\IDpService\\IDP.Api\\Controllers\\BaseController\\IBaseController.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-27T09:52:58.211Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-27T09:52:58.211Z"
             },
             {
               "$type": "Document",
@@ -548,8 +519,7 @@
               "RelativeToolTip": "Src\\Services\\IDpService\\IDP.Api\\WeatherForecast.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-27T09:40:38.089Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-27T09:40:38.089Z"
             },
             {
               "$type": "Document",
@@ -561,8 +531,7 @@
               "RelativeToolTip": "Src\\Services\\IDpService\\IDP.Api\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-27T09:40:33.869Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-27T09:40:33.869Z"
             },
             {
               "$type": "Document",
@@ -574,8 +543,7 @@
               "RelativeToolTip": "Src\\Services\\IDpService\\IDP.Api\\IDP.Api.http",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2025-02-27T09:40:26.332Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-27T09:40:26.332Z"
             },
             {
               "$type": "Document",
@@ -587,8 +555,7 @@
               "RelativeToolTip": "Src\\Services\\IDpService\\IDP.Api\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-02-27T09:40:21.589Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-27T09:40:21.589Z"
             },
             {
               "$type": "Document",
@@ -600,8 +567,7 @@
               "RelativeToolTip": "Src\\Services\\IDpService\\IDP.Api\\Controllers\\WeatherForecastController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-27T09:40:10.601Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-27T09:40:10.601Z"
             }
           ]
         }
