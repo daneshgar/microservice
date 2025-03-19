@@ -8,7 +8,7 @@ using IDP.Domain.IRepository.Command.Base;
 
 namespace IDP.Domain.IRepository.Command
 {
-    internal interface IUserCommandRepository:ICommandRepository<User>
+    public interface IUserCommandRepository:ICommandRepository<User>
     {
 
     }

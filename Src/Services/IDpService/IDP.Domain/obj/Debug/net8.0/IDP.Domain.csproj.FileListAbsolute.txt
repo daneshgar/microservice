@@ -10,3 +10,15 @@ D:\projects\EshopeProject\Eshope\Src\Services\IDpService\IDP.Domain\obj\Debug\ne
 D:\projects\EshopeProject\Eshope\Src\Services\IDpService\IDP.Domain\obj\Debug\net8.0\refint\IDP.Domain.dll
 D:\projects\EshopeProject\Eshope\Src\Services\IDpService\IDP.Domain\obj\Debug\net8.0\IDP.Domain.pdb
 D:\projects\EshopeProject\Eshope\Src\Services\IDpService\IDP.Domain\obj\Debug\net8.0\ref\IDP.Domain.dll
+D:\projects\microservice\Src\Services\IDpService\IDP.Domain\bin\Debug\net8.0\IDP.Domain.deps.json
+D:\projects\microservice\Src\Services\IDpService\IDP.Domain\bin\Debug\net8.0\IDP.Domain.dll
+D:\projects\microservice\Src\Services\IDpService\IDP.Domain\bin\Debug\net8.0\IDP.Domain.pdb
+D:\projects\microservice\Src\Services\IDpService\IDP.Domain\obj\Debug\net8.0\IDP.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\microservice\Src\Services\IDpService\IDP.Domain\obj\Debug\net8.0\IDP.Domain.AssemblyInfoInputs.cache
+D:\projects\microservice\Src\Services\IDpService\IDP.Domain\obj\Debug\net8.0\IDP.Domain.AssemblyInfo.cs
+D:\projects\microservice\Src\Services\IDpService\IDP.Domain\obj\Debug\net8.0\IDP.Domain.csproj.CoreCompileInputs.cache
+D:\projects\microservice\Src\Services\IDpService\IDP.Domain\obj\Debug\net8.0\IDP.Domain.sourcelink.json
+D:\projects\microservice\Src\Services\IDpService\IDP.Domain\obj\Debug\net8.0\IDP.Domain.dll
+D:\projects\microservice\Src\Services\IDpService\IDP.Domain\obj\Debug\net8.0\refint\IDP.Domain.dll
+D:\projects\microservice\Src\Services\IDpService\IDP.Domain\obj\Debug\net8.0\IDP.Domain.pdb
+D:\projects\microservice\Src\Services\IDpService\IDP.Domain\obj\Debug\net8.0\ref\IDP.Domain.dll

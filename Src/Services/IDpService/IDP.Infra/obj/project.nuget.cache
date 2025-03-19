@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9vU6xVcOnJc=",
+  "dgSpecHash": "BOpt/uN/H7U=",
   "success": true,
-  "projectFilePath": "D:\\projects\\EshopeProject\\Eshope\\Src\\Services\\IDpService\\IDP.Infra\\IDP.Infra.csproj",
+  "projectFilePath": "D:\\projects\\microservice\\Src\\Services\\IDpService\\IDP.Infra\\IDP.Infra.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\shabani\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\shabani\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

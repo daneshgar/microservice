@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Y6EDZFZSasU=",
+  "dgSpecHash": "I+8n+P278Tw=",
   "success": true,
-  "projectFilePath": "D:\\projects\\EshopeProject\\Eshope\\Src\\Services\\IDpService\\IDp.Application\\IDp.Application.csproj",
+  "projectFilePath": "D:\\projects\\microservice\\Src\\Services\\IDpService\\IDp.Application\\IDp.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\shabani\\.nuget\\packages\\automapper\\14.0.0\\automapper.14.0.0.nupkg.sha512",
     "C:\\Users\\shabani\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",

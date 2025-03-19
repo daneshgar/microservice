@@ -1,8 +1,14 @@
 using System.Reflection;
 using Asp.Versioning;
+using AutoMapper;
 using IDp.Application.Handler.Command.User;
+using IDp.Application.Hellper;
 using IDP.Domain.IRepository.Command;
+using IDP.Domain.IRepository.Command.Base;
+using IDP.Domain.IRepository.Query;
+using IDP.Infra.Data;
 using IDP.Infra.Repository.Command;
+using IDP.Infra.Repository.Query;
 using MediatR;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -11,6 +17,12 @@ builder.Services.AddStackExchangeRedisCache(option =>
 {
     option.Configuration = builder.Configuration.GetValue<string>("CashSetting:RedisUrl");
 });
+var mapperConfig = new MapperConfiguration(mc =>
+{
+    mc.AddProfile(new MappingProfile());
+});
+IMapper mapper = mapperConfig.CreateMapper();
+builder.Services.AddSingleton(mapper);
 
 // Add services to the container.
 
@@ -20,6 +32,11 @@ builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 builder.Services.AddMediatR(typeof(UserHandler).GetTypeInfo().Assembly);
 builder.Services.AddScoped<IOtpRedisRepository, OtpRedisRepository>();
+builder.Services.AddScoped<IUserCommandRepository, UserCommandRepository>();
+builder.Services.AddScoped<IUserQueryRepository, UserQueryRepository>();
+builder.Services.AddScoped(typeof(ICommandRepository<>), typeof(CommandRepository<>));
+builder.Services.AddTransient<ShopDbContext>();
+builder.Services.AddTransient<ShopQueryDbContext>();
 
 builder.Services.AddApiVersioning(options =>
 {

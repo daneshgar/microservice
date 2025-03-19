@@ -10,3 +10,15 @@ D:\projects\EshopeProject\Eshope\Src\Services\IDpService\IDP.Ioc\obj\Debug\net8.
 D:\projects\EshopeProject\Eshope\Src\Services\IDpService\IDP.Ioc\obj\Debug\net8.0\refint\IDP.Ioc.dll
 D:\projects\EshopeProject\Eshope\Src\Services\IDpService\IDP.Ioc\obj\Debug\net8.0\IDP.Ioc.pdb
 D:\projects\EshopeProject\Eshope\Src\Services\IDpService\IDP.Ioc\obj\Debug\net8.0\ref\IDP.Ioc.dll
+D:\projects\microservice\Src\Services\IDpService\IDP.Ioc\bin\Debug\net8.0\IDP.Ioc.deps.json
+D:\projects\microservice\Src\Services\IDpService\IDP.Ioc\bin\Debug\net8.0\IDP.Ioc.dll
+D:\projects\microservice\Src\Services\IDpService\IDP.Ioc\bin\Debug\net8.0\IDP.Ioc.pdb
+D:\projects\microservice\Src\Services\IDpService\IDP.Ioc\obj\Debug\net8.0\IDP.Ioc.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\microservice\Src\Services\IDpService\IDP.Ioc\obj\Debug\net8.0\IDP.Ioc.AssemblyInfoInputs.cache
+D:\projects\microservice\Src\Services\IDpService\IDP.Ioc\obj\Debug\net8.0\IDP.Ioc.AssemblyInfo.cs
+D:\projects\microservice\Src\Services\IDpService\IDP.Ioc\obj\Debug\net8.0\IDP.Ioc.csproj.CoreCompileInputs.cache
+D:\projects\microservice\Src\Services\IDpService\IDP.Ioc\obj\Debug\net8.0\IDP.Ioc.sourcelink.json
+D:\projects\microservice\Src\Services\IDpService\IDP.Ioc\obj\Debug\net8.0\IDP.Ioc.dll
+D:\projects\microservice\Src\Services\IDpService\IDP.Ioc\obj\Debug\net8.0\refint\IDP.Ioc.dll
+D:\projects\microservice\Src\Services\IDpService\IDP.Ioc\obj\Debug\net8.0\IDP.Ioc.pdb
+D:\projects\microservice\Src\Services\IDpService\IDP.Ioc\obj\Debug\net8.0\ref\IDP.Ioc.dll

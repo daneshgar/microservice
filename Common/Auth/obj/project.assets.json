@@ -472,11 +472,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\projects\\EshopeProject\\Eshope\\Common\\Auth\\Auth.csproj",
+      "projectUniqueName": "D:\\projects\\microservice\\Common\\Auth\\Auth.csproj",
       "projectName": "Auth",
-      "projectPath": "D:\\projects\\EshopeProject\\Eshope\\Common\\Auth\\Auth.csproj",
+      "projectPath": "D:\\projects\\microservice\\Common\\Auth\\Auth.csproj",
       "packagesPath": "C:\\Users\\shabani\\.nuget\\packages\\",
-      "outputPath": "D:\\projects\\EshopeProject\\Eshope\\Common\\Auth\\obj\\",
+      "outputPath": "D:\\projects\\microservice\\Common\\Auth\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

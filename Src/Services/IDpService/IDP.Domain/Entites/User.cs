@@ -9,11 +9,12 @@ namespace IDP.Domain.Entities
 {
     public class User : BaseEntitiy
     {
-        public  string FullName { get; set; }
-        public string Email { get; set; }
-        public  string UserName { get; set; }
-        public  string Password { get; set; }
-        public  string Salt { get; set; }
-        public required string MobilNumber { get; set; }
+        public  string? FullName { get; set; }
+        public string? Email { get; set; }
+        public  string? UserName { get; set; }
+        public  string? Password { get; set; }
+        public  string? Salt { get; set; }
+        public required string MobileNumber { get; set; }
+
     }
 }

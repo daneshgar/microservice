@@ -11,7 +11,7 @@ namespace IDP.Api.Controllers.V1
     [ApiVersion("2.0")]
     [ApiVersion("1.0")]
     [Route("api/v{v:apiversion}/Auth")]
-    public class AuthController: IBaseController
+    public class AuthController: ControllerBase
     {
         public readonly IMediator _mediator;
         public AuthController(IMediator mediator)
@@ -21,7 +21,7 @@ namespace IDP.Api.Controllers.V1
         [HttpPost("login")]
         public async Task<IActionResult> login([FromBody]AuthQuery authQuery)
         {
-            var request=_mediator.Send(authQuery);
+            var request=await _mediator.Send(authQuery);
             return Ok(request);
         }
         [HttpPost("SendOtp")]

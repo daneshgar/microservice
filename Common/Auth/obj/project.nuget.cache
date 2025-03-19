@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "356hY6sn9zg=",
+  "dgSpecHash": "IZvnYHec2P4=",
   "success": true,
-  "projectFilePath": "D:\\projects\\EshopeProject\\Eshope\\Common\\Auth\\Auth.csproj",
+  "projectFilePath": "D:\\projects\\microservice\\Common\\Auth\\Auth.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\shabani\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\8.0.5\\microsoft.aspnetcore.authentication.jwtbearer.8.0.5.nupkg.sha512",
     "C:\\Users\\shabani\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\8.0.0\\microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",

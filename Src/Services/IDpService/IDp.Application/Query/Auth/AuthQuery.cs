@@ -3,13 +3,14 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Auth;
 using MediatR;
 
 namespace IDp.Application.Query.Auth
 {
-    public record AuthQuery:IRequest<bool>
+    public record AuthQuery:IRequest<JsonWebToken>
     {
-        public string UserName { get; set; }
-        public string Password { get; set; }
+        public required string mobileNumber { get; set; }
+        public required int OtpCode { get; set; }
     }
 }

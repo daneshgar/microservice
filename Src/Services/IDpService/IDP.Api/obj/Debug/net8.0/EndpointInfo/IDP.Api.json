@@ -163,15 +163,19 @@
         "additionalProperties": false
       },
       "AuthQuery": {
+        "required": [
+          "mobileNumber",
+          "otpCode"
+        ],
         "type": "object",
         "properties": {
-          "userName": {
+          "mobileNumber": {
             "type": "string",
             "nullable": true
           },
-          "password": {
-            "type": "string",
-            "nullable": true
+          "otpCode": {
+            "type": "integer",
+            "format": "int32"
           }
         },
         "additionalProperties": false

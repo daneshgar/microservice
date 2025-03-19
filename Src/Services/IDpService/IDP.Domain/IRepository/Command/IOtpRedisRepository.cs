@@ -11,6 +11,7 @@ namespace IDP.Domain.IRepository.Command
 {
     public interface IOtpRedisRepository:ICommandRepository<Otp>
     {
+        Task<Otp> GetData(string Mobile);
       
     }
 }

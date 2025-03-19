@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\projects\\EshopeProject\\Eshope\\Src\\Services\\IDpService\\IDP.Api\\IDP.Api.csproj": {}
+    "D:\\projects\\microservice\\Src\\Services\\IDpService\\IDP.Api\\IDP.Api.csproj": {}
   },
   "projects": {
-    "D:\\projects\\EshopeProject\\Eshope\\Common\\Auth\\Auth.csproj": {
+    "D:\\projects\\microservice\\Common\\Auth\\Auth.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\projects\\EshopeProject\\Eshope\\Common\\Auth\\Auth.csproj",
+        "projectUniqueName": "D:\\projects\\microservice\\Common\\Auth\\Auth.csproj",
         "projectName": "Auth",
-        "projectPath": "D:\\projects\\EshopeProject\\Eshope\\Common\\Auth\\Auth.csproj",
+        "projectPath": "D:\\projects\\microservice\\Common\\Auth\\Auth.csproj",
         "packagesPath": "C:\\Users\\shabani\\.nuget\\packages\\",
-        "outputPath": "D:\\projects\\EshopeProject\\Eshope\\Common\\Auth\\obj\\",
+        "outputPath": "D:\\projects\\microservice\\Common\\Auth\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -92,14 +92,14 @@
         }
       }
     },
-    "D:\\projects\\EshopeProject\\Eshope\\Src\\Services\\IDpService\\IDP.Api\\IDP.Api.csproj": {
+    "D:\\projects\\microservice\\Src\\Services\\IDpService\\IDP.Api\\IDP.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\projects\\EshopeProject\\Eshope\\Src\\Services\\IDpService\\IDP.Api\\IDP.Api.csproj",
+        "projectUniqueName": "D:\\projects\\microservice\\Src\\Services\\IDpService\\IDP.Api\\IDP.Api.csproj",
         "projectName": "IDP.Api",
-        "projectPath": "D:\\projects\\EshopeProject\\Eshope\\Src\\Services\\IDpService\\IDP.Api\\IDP.Api.csproj",
+        "projectPath": "D:\\projects\\microservice\\Src\\Services\\IDpService\\IDP.Api\\IDP.Api.csproj",
         "packagesPath": "C:\\Users\\shabani\\.nuget\\packages\\",
-        "outputPath": "D:\\projects\\EshopeProject\\Eshope\\Src\\Services\\IDpService\\IDP.Api\\obj\\",
+        "outputPath": "D:\\projects\\microservice\\Src\\Services\\IDpService\\IDP.Api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -121,11 +121,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\projects\\EshopeProject\\Eshope\\Common\\Auth\\Auth.csproj": {
-                "projectPath": "D:\\projects\\EshopeProject\\Eshope\\Common\\Auth\\Auth.csproj"
+              "D:\\projects\\microservice\\Common\\Auth\\Auth.csproj": {
+                "projectPath": "D:\\projects\\microservice\\Common\\Auth\\Auth.csproj"
               },
-              "D:\\projects\\EshopeProject\\Eshope\\Src\\Services\\IDpService\\IDp.Application\\IDp.Application.csproj": {
-                "projectPath": "D:\\projects\\EshopeProject\\Eshope\\Src\\Services\\IDpService\\IDp.Application\\IDp.Application.csproj"
+              "D:\\projects\\microservice\\Src\\Services\\IDpService\\IDp.Application\\IDp.Application.csproj": {
+                "projectPath": "D:\\projects\\microservice\\Src\\Services\\IDpService\\IDp.Application\\IDp.Application.csproj"
               }
             }
           }
@@ -226,14 +226,14 @@
         }
       }
     },
-    "D:\\projects\\EshopeProject\\Eshope\\Src\\Services\\IDpService\\IDp.Application\\IDp.Application.csproj": {
+    "D:\\projects\\microservice\\Src\\Services\\IDpService\\IDp.Application\\IDp.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\projects\\EshopeProject\\Eshope\\Src\\Services\\IDpService\\IDp.Application\\IDp.Application.csproj",
+        "projectUniqueName": "D:\\projects\\microservice\\Src\\Services\\IDpService\\IDp.Application\\IDp.Application.csproj",
         "projectName": "IDp.Application",
-        "projectPath": "D:\\projects\\EshopeProject\\Eshope\\Src\\Services\\IDpService\\IDp.Application\\IDp.Application.csproj",
+        "projectPath": "D:\\projects\\microservice\\Src\\Services\\IDpService\\IDp.Application\\IDp.Application.csproj",
         "packagesPath": "C:\\Users\\shabani\\.nuget\\packages\\",
-        "outputPath": "D:\\projects\\EshopeProject\\Eshope\\Src\\Services\\IDpService\\IDp.Application\\obj\\",
+        "outputPath": "D:\\projects\\microservice\\Src\\Services\\IDpService\\IDp.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -255,11 +255,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\projects\\EshopeProject\\Eshope\\Common\\Auth\\Auth.csproj": {
-                "projectPath": "D:\\projects\\EshopeProject\\Eshope\\Common\\Auth\\Auth.csproj"
+              "D:\\projects\\microservice\\Common\\Auth\\Auth.csproj": {
+                "projectPath": "D:\\projects\\microservice\\Common\\Auth\\Auth.csproj"
               },
-              "D:\\projects\\EshopeProject\\Eshope\\Src\\Services\\IDpService\\IDP.Infra\\IDP.Infra.csproj": {
-                "projectPath": "D:\\projects\\EshopeProject\\Eshope\\Src\\Services\\IDpService\\IDP.Infra\\IDP.Infra.csproj"
+              "D:\\projects\\microservice\\Src\\Services\\IDpService\\IDP.Infra\\IDP.Infra.csproj": {
+                "projectPath": "D:\\projects\\microservice\\Src\\Services\\IDpService\\IDP.Infra\\IDP.Infra.csproj"
               }
             }
           }
@@ -309,14 +309,14 @@
         }
       }
     },
-    "D:\\projects\\EshopeProject\\Eshope\\Src\\Services\\IDpService\\IDP.Domain\\IDP.Domain.csproj": {
+    "D:\\projects\\microservice\\Src\\Services\\IDpService\\IDP.Domain\\IDP.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\projects\\EshopeProject\\Eshope\\Src\\Services\\IDpService\\IDP.Domain\\IDP.Domain.csproj",
+        "projectUniqueName": "D:\\projects\\microservice\\Src\\Services\\IDpService\\IDP.Domain\\IDP.Domain.csproj",
         "projectName": "IDP.Domain",
-        "projectPath": "D:\\projects\\EshopeProject\\Eshope\\Src\\Services\\IDpService\\IDP.Domain\\IDP.Domain.csproj",
+        "projectPath": "D:\\projects\\microservice\\Src\\Services\\IDpService\\IDP.Domain\\IDP.Domain.csproj",
         "packagesPath": "C:\\Users\\shabani\\.nuget\\packages\\",
-        "outputPath": "D:\\projects\\EshopeProject\\Eshope\\Src\\Services\\IDpService\\IDP.Domain\\obj\\",
+        "outputPath": "D:\\projects\\microservice\\Src\\Services\\IDpService\\IDP.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -375,14 +375,14 @@
         }
       }
     },
-    "D:\\projects\\EshopeProject\\Eshope\\Src\\Services\\IDpService\\IDP.Infra\\IDP.Infra.csproj": {
+    "D:\\projects\\microservice\\Src\\Services\\IDpService\\IDP.Infra\\IDP.Infra.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\projects\\EshopeProject\\Eshope\\Src\\Services\\IDpService\\IDP.Infra\\IDP.Infra.csproj",
+        "projectUniqueName": "D:\\projects\\microservice\\Src\\Services\\IDpService\\IDP.Infra\\IDP.Infra.csproj",
         "projectName": "IDP.Infra",
-        "projectPath": "D:\\projects\\EshopeProject\\Eshope\\Src\\Services\\IDpService\\IDP.Infra\\IDP.Infra.csproj",
+        "projectPath": "D:\\projects\\microservice\\Src\\Services\\IDpService\\IDP.Infra\\IDP.Infra.csproj",
         "packagesPath": "C:\\Users\\shabani\\.nuget\\packages\\",
-        "outputPath": "D:\\projects\\EshopeProject\\Eshope\\Src\\Services\\IDpService\\IDP.Infra\\obj\\",
+        "outputPath": "D:\\projects\\microservice\\Src\\Services\\IDpService\\IDP.Infra\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -404,8 +404,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\projects\\EshopeProject\\Eshope\\Src\\Services\\IDpService\\IDP.Domain\\IDP.Domain.csproj": {
-                "projectPath": "D:\\projects\\EshopeProject\\Eshope\\Src\\Services\\IDpService\\IDP.Domain\\IDP.Domain.csproj"
+              "D:\\projects\\microservice\\Src\\Services\\IDpService\\IDP.Domain\\IDP.Domain.csproj": {
+                "projectPath": "D:\\projects\\microservice\\Src\\Services\\IDpService\\IDP.Domain\\IDP.Domain.csproj"
               }
             }
           }

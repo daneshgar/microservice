@@ -10,3 +10,15 @@ D:\projects\EshopeProject\Eshope\Src\Services\IDpService\IDp.UnitTest\obj\Debug\
 D:\projects\EshopeProject\Eshope\Src\Services\IDpService\IDp.UnitTest\obj\Debug\net8.0\refint\IDp.UnitTest.dll
 D:\projects\EshopeProject\Eshope\Src\Services\IDpService\IDp.UnitTest\obj\Debug\net8.0\IDp.UnitTest.pdb
 D:\projects\EshopeProject\Eshope\Src\Services\IDpService\IDp.UnitTest\obj\Debug\net8.0\ref\IDp.UnitTest.dll
+D:\projects\microservice\Src\Services\IDpService\IDp.UnitTest\bin\Debug\net8.0\IDp.UnitTest.deps.json
+D:\projects\microservice\Src\Services\IDpService\IDp.UnitTest\bin\Debug\net8.0\IDp.UnitTest.dll
+D:\projects\microservice\Src\Services\IDpService\IDp.UnitTest\bin\Debug\net8.0\IDp.UnitTest.pdb
+D:\projects\microservice\Src\Services\IDpService\IDp.UnitTest\obj\Debug\net8.0\IDp.UnitTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\microservice\Src\Services\IDpService\IDp.UnitTest\obj\Debug\net8.0\IDp.UnitTest.AssemblyInfoInputs.cache
+D:\projects\microservice\Src\Services\IDpService\IDp.UnitTest\obj\Debug\net8.0\IDp.UnitTest.AssemblyInfo.cs
+D:\projects\microservice\Src\Services\IDpService\IDp.UnitTest\obj\Debug\net8.0\IDp.UnitTest.csproj.CoreCompileInputs.cache
+D:\projects\microservice\Src\Services\IDpService\IDp.UnitTest\obj\Debug\net8.0\IDp.UnitTest.sourcelink.json
+D:\projects\microservice\Src\Services\IDpService\IDp.UnitTest\obj\Debug\net8.0\IDp.UnitTest.dll
+D:\projects\microservice\Src\Services\IDpService\IDp.UnitTest\obj\Debug\net8.0\refint\IDp.UnitTest.dll
+D:\projects\microservice\Src\Services\IDpService\IDp.UnitTest\obj\Debug\net8.0\IDp.UnitTest.pdb
+D:\projects\microservice\Src\Services\IDpService\IDp.UnitTest\obj\Debug\net8.0\ref\IDp.UnitTest.dll

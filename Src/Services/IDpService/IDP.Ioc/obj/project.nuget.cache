@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yfdgtVIM5TE=",
+  "dgSpecHash": "L7/ApybgqjQ=",
   "success": true,
-  "projectFilePath": "D:\\projects\\EshopeProject\\Eshope\\Src\\Services\\IDpService\\IDP.Ioc\\IDP.Ioc.csproj",
+  "projectFilePath": "D:\\projects\\microservice\\Src\\Services\\IDpService\\IDP.Ioc\\IDP.Ioc.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
